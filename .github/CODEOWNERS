@@ -1,0 +1,5 @@
+# CODEOWNERS: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+# Owners are Okta-synced GitHub teams. Membership is managed in Okta, not GitHub.
+# Replaces the upstream CODEOWNERS, whose owners are not members of the semgrep org.
+
+* @semgrep/security-research
